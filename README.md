@@ -1,7 +1,7 @@
 # Sourabh Agarwal
 
 ## 🚀 About Me
-Lead Software Engineer with 11+ years of experience building high-performance, scalable enterprise applications in FinTech and telecom. Skilled in Java, Spring Boot, microservices, and cloud (AWS, GCP); Kubernetes, containerization, and CI/CD; distributed, event-driven system design; and building high-volume decision systems and data pipelines. Strong background across the full SDLC and team leadership. Passionate about the intersection of FinTech and AI.
+Lead Software Engineer with 12+ years of experience building high-performance, scalable enterprise applications in FinTech and telecom. Skilled in Java, Spring Boot, microservices, and cloud (AWS, GCP); Kubernetes, containerization, and CI/CD; distributed, event-driven system design; and building high-volume decision systems and data pipelines. Strong background across the full SDLC and team leadership. Passionate about the intersection of FinTech and AI.
 
 ## 🛠 Skills
 - Languages: Java (17/21), Python
